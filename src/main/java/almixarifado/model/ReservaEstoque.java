@@ -1,5 +1,6 @@
 package almixarifado.model;
 
+import almixarifado.model.enums.LocalizacaoFisica;
 import almixarifado.model.enums.StatusReservaEnum;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
