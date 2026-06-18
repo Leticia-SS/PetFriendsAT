@@ -1,4 +1,4 @@
-package almixarifado.model.enums;
+package com.example.petfriends.almixarifado.model.enums;
 
 import jakarta.persistence.Embeddable;
 
