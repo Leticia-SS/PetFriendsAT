@@ -1,6 +1,6 @@
-package com.example.petfriends.kafka;
+package com.example.petfriends.transporte.listener;
 
-import com.example.petfriends.events.PedidoDespachadoParaTransporteEvent;
+import com.example.petfriends.pedidos.event.PedidoDespachadoParaTransporteEvent;
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Service;
 

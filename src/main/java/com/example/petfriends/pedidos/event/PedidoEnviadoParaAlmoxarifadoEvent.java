@@ -1,6 +1,6 @@
-package com.example.petfriends.events;
+package com.example.petfriends.pedidos.event;
 
-import com.example.petfriends.events.dto.ItemPedidoDTO;
+import com.example.petfriends.pedidos.dto.ItemPedidoDTO;
 import lombok.AllArgsConstructor;
 
 import java.time.LocalDateTime;

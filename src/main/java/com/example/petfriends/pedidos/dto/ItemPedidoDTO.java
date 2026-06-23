@@ -1,8 +1,6 @@
-package com.example.petfriends.events.dto;
+package com.example.petfriends.pedidos.dto;
 
 import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.NoArgsConstructor;
 
 @AllArgsConstructor
 public class ItemPedidoDTO {

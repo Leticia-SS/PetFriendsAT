@@ -1,7 +1,6 @@
-package com.example.petfriends.almixarifado.model;
+package com.example.petfriends.almoxarifado.model;
 
-import com.example.petfriends.almixarifado.model.enums.LocalizacaoFisica;
-import com.example.petfriends.almixarifado.model.enums.StatusReservaEnum;
+import com.example.petfriends.almoxarifado.model.enums.StatusReservaEnum;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
