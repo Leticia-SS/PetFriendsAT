@@ -1,0 +1,9 @@
+com\example\petfriends\almoxarifado\model\enums\StatusReservaEnum.class
+com\example\petfriends\almoxarifado\repository\IReservaEstoqueRepository.class
+com\example\petfriends\almoxarifado\event\PedidoEnviadoParaAlmoxarifadoEvent.class
+com\example\petfriends\almoxarifado\model\LocalizacaoFisica.class
+com\example\petfriends\almoxarifado\event\PedidoDespachadoParaTransporteEvent.class
+com\example\petfriends\almoxarifado\producer\AlmoxarifadoEventProducer.class
+com\example\petfriends\almoxarifado\AlmoxarifadoApplication.class
+com\example\petfriends\almoxarifado\model\ReservaEstoque.class
+com\example\petfriends\almoxarifado\listener\AlmoxarifadoEventListener.class

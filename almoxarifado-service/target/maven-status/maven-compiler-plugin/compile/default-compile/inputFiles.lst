@@ -1,0 +1,9 @@
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\Java Web\petfriends\almoxarifado-service\src\main\java\com\example\petfriends\almoxarifado\AlmoxarifadoApplication.java
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\Java Web\petfriends\almoxarifado-service\src\main\java\com\example\petfriends\almoxarifado\event\PedidoDespachadoParaTransporteEvent.java
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\Java Web\petfriends\almoxarifado-service\src\main\java\com\example\petfriends\almoxarifado\event\PedidoEnviadoParaAlmoxarifadoEvent.java
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\Java Web\petfriends\almoxarifado-service\src\main\java\com\example\petfriends\almoxarifado\listener\AlmoxarifadoEventListener.java
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\Java Web\petfriends\almoxarifado-service\src\main\java\com\example\petfriends\almoxarifado\model\enums\StatusReservaEnum.java
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\Java Web\petfriends\almoxarifado-service\src\main\java\com\example\petfriends\almoxarifado\model\LocalizacaoFisica.java
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\Java Web\petfriends\almoxarifado-service\src\main\java\com\example\petfriends\almoxarifado\model\ReservaEstoque.java
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\Java Web\petfriends\almoxarifado-service\src\main\java\com\example\petfriends\almoxarifado\producer\AlmoxarifadoEventProducer.java
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\Java Web\petfriends\almoxarifado-service\src\main\java\com\example\petfriends\almoxarifado\repository\IReservaEstoqueRepository.java
