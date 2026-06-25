@@ -1,4 +1,5 @@
 com\example\petfriends\almoxarifado\model\enums\StatusReservaEnum.class
+com\example\petfriends\almoxarifado\config\KafkaProducerConfig.class
 com\example\petfriends\almoxarifado\repository\IReservaEstoqueRepository.class
 com\example\petfriends\almoxarifado\event\PedidoEnviadoParaAlmoxarifadoEvent.class
 com\example\petfriends\almoxarifado\model\LocalizacaoFisica.class

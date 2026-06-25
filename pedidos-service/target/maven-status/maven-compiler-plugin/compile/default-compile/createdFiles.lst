@@ -1,7 +1,9 @@
 com\example\petfriends\pedidos\producer\KafkaProducerConfig.class
+com\example\petfriends\pedidos\producer\PedidoEventProducer.class
 com\example\petfriends\pedidos\model\Pedido.class
 com\example\petfriends\pedidos\dto\CriarPedidoRequest.class
 com\example\petfriends\pedidos\PedidosApplication.class
 com\example\petfriends\pedidos\model\enums\StatusPedidoEnum.class
 com\example\petfriends\pedidos\repository\IPedidoRepository.class
+com\example\petfriends\pedidos\controller\PedidoController.class
 com\example\petfriends\pedidos\event\PedidoEnviadoParaAlmoxarifadoEvent.class

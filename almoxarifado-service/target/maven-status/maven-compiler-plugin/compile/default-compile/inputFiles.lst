@@ -1,4 +1,5 @@
 C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\Java Web\petfriends\almoxarifado-service\src\main\java\com\example\petfriends\almoxarifado\AlmoxarifadoApplication.java
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\Java Web\petfriends\almoxarifado-service\src\main\java\com\example\petfriends\almoxarifado\config\KafkaProducerConfig.java
 C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\Java Web\petfriends\almoxarifado-service\src\main\java\com\example\petfriends\almoxarifado\event\PedidoDespachadoParaTransporteEvent.java
 C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\Java Web\petfriends\almoxarifado-service\src\main\java\com\example\petfriends\almoxarifado\event\PedidoEnviadoParaAlmoxarifadoEvent.java
 C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\Java Web\petfriends\almoxarifado-service\src\main\java\com\example\petfriends\almoxarifado\listener\AlmoxarifadoEventListener.java

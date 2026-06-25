@@ -20,7 +20,11 @@ public class AlmoxarifadoEventListener {
 
     @KafkaListener(
             topics = "pedido-enviado-almoxarifado",
-            groupId = "almoxarifado-group"
+            groupId = "almoxarifado-group",
+            properties = {
+                    "spring.json.value.default.type=com.example.petfriends.almoxarifado.event.PedidoEnviadoParaAlmoxarifadoEvent",
+                    "spring.json.trusted.packages=com.example.petfriends.*"
+            }
     )
     public void processarEstoque(PedidoEnviadoParaAlmoxarifadoEvent event) {
         log.info("Evento recebido do Pedidos: pedidoId={}, produtoId={}, quantidade={}",

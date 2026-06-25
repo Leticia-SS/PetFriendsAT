@@ -1,7 +1,9 @@
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\Java Web\petfriends\pedidos-service\src\main\java\com\example\petfriends\pedidos\controller\PedidoController.java
 C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\Java Web\petfriends\pedidos-service\src\main\java\com\example\petfriends\pedidos\dto\CriarPedidoRequest.java
 C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\Java Web\petfriends\pedidos-service\src\main\java\com\example\petfriends\pedidos\event\PedidoEnviadoParaAlmoxarifadoEvent.java
 C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\Java Web\petfriends\pedidos-service\src\main\java\com\example\petfriends\pedidos\model\enums\StatusPedidoEnum.java
 C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\Java Web\petfriends\pedidos-service\src\main\java\com\example\petfriends\pedidos\model\Pedido.java
 C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\Java Web\petfriends\pedidos-service\src\main\java\com\example\petfriends\pedidos\PedidosApplication.java
 C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\Java Web\petfriends\pedidos-service\src\main\java\com\example\petfriends\pedidos\producer\KafkaProducerConfig.java
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\Java Web\petfriends\pedidos-service\src\main\java\com\example\petfriends\pedidos\producer\PedidoEventProducer.java
 C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\Java Web\petfriends\pedidos-service\src\main\java\com\example\petfriends\pedidos\repository\IPedidoRepository.java
