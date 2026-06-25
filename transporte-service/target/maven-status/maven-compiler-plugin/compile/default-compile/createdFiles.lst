@@ -1,7 +1,0 @@
-com\example\petfriends\transporte\repository\IOrdemTransporteRepository.class
-com\example\petfriends\transporte\event\PedidoDespachadoParaTransporteEvent.class
-com\example\petfriends\transporte\model\EnderecoDestino.class
-com\example\petfriends\transporte\model\enums\StatusEntregaEnum.class
-com\example\petfriends\transporte\listener\TransporteEventListener.class
-com\example\petfriends\transporte\model\OrdemTransporte.class
-com\example\petfriends\transporte\TransporteApplication.class
