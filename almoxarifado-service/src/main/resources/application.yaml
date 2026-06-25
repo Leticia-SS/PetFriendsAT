@@ -24,17 +24,27 @@ spring:
 
   kafka:
     bootstrap-servers: localhost:9092
-    consumer:
-      group-id: almoxarifado-group
-      auto-offset-reset: earliest
-      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
-      value-deserializer: org.springframework.kafka.support.serializer.JsonDeserializer
-      properties:
-        spring.json.trusted.packages: "com.example.petfriends.*"
-        spring.json.value.default.type: "com.example.petfriends.almoxarifado.event.PedidoEnviadoParaAlmoxarifadoEvent"
     producer:
       key-serializer: org.apache.kafka.common.serialization.StringSerializer
       value-serializer: org.springframework.kafka.support.serializer.JsonSerializer
+#  kafka:
+#    bootstrap-servers: localhost:9092
+#    consumer:
+#      group-id: almoxarifado-group
+#      auto-offset-reset: earliest
+#      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+#      value-deserializer: org.springframework.kafka.support.serializer.JsonDeserializer
+#      properties:
+#        spring.json.trusted.packages: "com.example.petfriends.*"
+#        spring.json.value.default.type: "com.example.petfriends.almoxarifado.event.PedidoEnviadoParaAlmoxarifadoEvent"
+#    producer:
+#      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+#      value-serializer: org.springframework.kafka.support.serializer.JsonSerializer
+
+  logging:
+    level:
+      org.springframework.kafka: DEBUG
+      org.apache.kafka: DEBUG
 
 server:
   port: 8082
