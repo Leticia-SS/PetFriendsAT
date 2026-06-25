@@ -51,7 +51,7 @@ Responsável por reservar e separar itens do estoque ao receber um pedido.
 ### transporte-service (porta 8083)
 Responsável por criar ordens de transporte ao receber pedidos despachados.
 
-- Consome o tópico: `pedido-despachado-transporte` *(em desenvolvimento)*
+- Consome o tópico: `pedido-despachado-transporte` 
 - Banco: H2 em memória (`transportedb`)
 
 ---
